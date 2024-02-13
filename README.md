@@ -9,6 +9,8 @@ performance and sales target comparison.
 
 **1.**_[Customer Performance Report](https://github.com/awiral97/Excel-Sales-Analyctics/blob/main/Customer%20Performance%20Report.pdf)_
 
+**2** _[Customer Performance Report India](https://github.com/awiral97/Excel-Sales-Analyctics/blob/main/Customer%20performance%20report%20India.pdf)_
+
 **Key Learninngs**
 
 1. Enabled effective monitoring and evaluation of sales activities.
