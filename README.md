@@ -7,6 +7,8 @@
 Develop a comprehensive customer performance report and conduct a market
 performance and sales target comparison.
 
+**1.**_[Customer Performance Report](https://github.com/awiral97/Excel-Sales-Analyctics/blob/main/Customer%20Performance%20Report.pdf)_
+
 **Key Learninngs**
 
 1. Enabled effective monitoring and evaluation of sales activities.
