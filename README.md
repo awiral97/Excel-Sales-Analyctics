@@ -23,6 +23,11 @@ performance and sales target comparison.
 Create detailed Profit and Loss (P&L) reports categorized by Fiscal Year and
 Months. Produce P&L reports segmented by Markets. 
 
+**1** _[Profit and Loss P&L Report by Fiscal Year]
+**2** _[Profit and Loss P&L Report by Month] 
+**3** 
+
+
 **Key Learning**
 
 1.Proficient in ETL methodology (Extract, Transform, Load). 
