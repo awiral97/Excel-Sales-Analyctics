@@ -21,3 +21,10 @@ Months. Produce P&L reports segmented by Markets.
 
 **Key Learning**
 
+1.Proficient in ETL methodology (Extract, Transform, Load). 
+
+2. Skilled in generating date tables using Power Query.
+3. Proficient in establishing data model relationships with Power Pivot.
+4. Skilled in using DAX to create calculated columns.
+5. Adept at incorporating supplementary data into existing data models.
+
