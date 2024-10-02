@@ -4,7 +4,7 @@
 
 **Objective:**
 
-Develop a comprehensive customer performance report and conduct a market
+Developed a comprehensive customer performance report and conducted a market
 performance and sales target comparison.
 
 **1.**_[Customer Performance Report](https://github.com/awiral97/Excel-Sales-Analyctics/blob/main/Customer%20Performance%20Report.pdf)_
@@ -25,7 +25,7 @@ performance and sales target comparison.
 
 **Objective:**
 
-Create detailed Profit and Loss (P&L) reports categorized by Fiscal Year and
+Created a detailed Profit and Loss (P&L) reports categorized by Fiscal Year and
 Months. Produce P&L reports segmented by Markets. 
 
 **1** _[Profit and Loss P&L Report by Fiscal Year](https://github.com/awiral97/Excel-Sales-Analyctics/blob/main/P%26L%20Statement%20by%20Years.pdf)_
